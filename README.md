@@ -1,4 +1,4 @@
-**Toto je zdrojový kód pluinu ChestLocker**
+
 
 ***Ako ho používať*** (SK version):
 Budeme potrebovať verziu **papermc 1.17.1** a **Java 17**
@@ -6,7 +6,7 @@ Odporúčame použiť aj nejaký plugin na spravovanie permisí (napr.**LuckPerm
 
 **Prvé spustenie**
 
-<h3 align="center">Zrojový kód pre minecraft plugin na zamykanie chestiek</h3>
+<h2 align="center">ChestLocker</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
