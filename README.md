@@ -6,7 +6,7 @@ Odporúčame použiť aj nejaký plugin na spravovanie permisí (napr.**LuckPerm
 
 **Prvé spustenie**
 
-<h2 align="center">ChestLocker</h2>
+<h1 align="center">ChestLocker</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
