@@ -1,0 +1,26 @@
+name: ChestLock
+version: '${project.version}'
+api-version: 1.17
+authors: [Xilef]
+main: cz.minigate.chestlock.ChestLock
+description: Plugin na zamykanie chestiek.
+commands:
+  removechest:
+    description: Odstráni zámok z chestky
+    usage: /removechest
+
+permissions:
+      chestlock.open.all:
+        description: Povolenie otvoriť všetky chestky.
+        default: op
+      chestlock.break.all:
+        description: Povolenie ničiť všetky chestky.
+        default: op
+      chestlock.remove:
+        description: Umožnuje použiť príkaz /removechest.
+        default: false
+      chestlock.remove.all:
+        description: Povolenie odstrániť všetky chestky.
+        default: op
+
+
