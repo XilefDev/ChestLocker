@@ -8,7 +8,7 @@ Odporúčame použiť aj nejaký plugin na spravovanie permisí (napr.**LuckPerm
 
 <h1 align="center">ChestLocker</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" font-size="100px">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/maybe_xilef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maybe_xilef" height="30" width="40" /></a>
 </p>
