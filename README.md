@@ -1,4 +1,4 @@
-**`#ffffff`Toto je zdrojový kód pluinu ChestLocker**
+**`#0969DA`Toto je zdrojový kód pluinu ChestLocker**
 
 ***Ako ho používať*** (SK version):
 Budeme potrebovať verziu **papermc 1.17.1** a **Java 17**
